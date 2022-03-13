@@ -10,7 +10,7 @@ How to run this application:
 
 5. Right click on the file ContactManagerApp.java -> Run as Java Application
 
-6. Open MySQL Workbench. Run the createSchema.sql file to create the required tables
+6. Open MySQL Workbench. Run the SQL_Script.sql file to create the required tables
 
 7. Run PopulateDatabase.java to load a list of sample contacts in your application to get started (optional). This code loads the entries from the contacts.csv file.
 
