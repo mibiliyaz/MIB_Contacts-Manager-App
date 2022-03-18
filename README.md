@@ -10,7 +10,7 @@ Instructions to run the application:
 
 4. If the file "mysql-connector-java-8.0.12.jar" & "ibatis.jar" are already added in the ClassPath, select cancel. Else click Add JARs Select "mysql-connector-java-8.0.12.jar" & "ibatis.jar" which is located in folder ‘lib’ of the MIB_ContactsManager project. Click on Apply and Close
 
-5. Open ContactsDB.java, at line 17 change the value of password to your mysql password
+5. Open ContactsDB.java, at line 14 change the value of password to your mysql password
 
 6. Right click on the file StartDatabase.java -> Run as Java Application
 
